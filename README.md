@@ -15,7 +15,7 @@ Website for arranging and providing details to guests for my upcoming wedding.
 - Post event photo sharing
 
 ## Technology
-The project will be built using:
+The project is built using:
 - Backend:
   - Language: NodeJS v12.16
   - Framework: Express.js
@@ -26,7 +26,7 @@ The project will be built using:
 - JS Package Manager: npm
 - CI: Travis
 
-Hosting will be entirely cloud based using AWS Docker.
+Server hosting will be cloud based using AWS Docker.
 
 ## How to Install
 
